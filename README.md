@@ -1,0 +1,3 @@
+- 👋 Hello! I am Leroy Deltona, an Accountant-In-Training!
+- 👀 I’m interested in creating an AI software that will take a scan of documents and complete an individual's taxes in seconds!
+- 🌱 I’m currently learning a little bit of everything. Coding lauguges, Execl, laws and regulation on distribution in NYS.
